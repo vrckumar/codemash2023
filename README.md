@@ -1,8 +1,12 @@
 # codemash2023
 CodeMash2023
 
-Here is your link:
-https://catalog.us-east-1.prod.workshops.aws/join<img width="970" alt="image" src="https://user-images.githubusercontent.com/14860321/211469258-e6a6260b-9697-4329-b7c8-ee7f32e425e3.png">
+CodeMash 2023 Serverless 
+Description: Build your first Serverless Web Application
+Presented by: Curtis Darst, Camille Roussel
+Time: Tuesday, Jan. 10, 1:00 PM - 5:00 PM
+
+Event link: https://catalog.us-east-1.prod.workshops.aws/join?access-code=887e-0c9848-38
 
 
 Survey: https://survey.immersionday.com/ZkL9lohVR
